@@ -36,3 +36,7 @@ I wanted to get started making drones so this is my first drone I wanted to just
 | Camera Mount | iFlight Chimera 4 RunCam Split 4k holder (TPU, 3D printed) | 1 | Free (STL) | [Printables](https://www.printables.com/model/58485-iflight-chimera-4-runcam-split-4k-holder) |
 
 Total: $273.82
+
+
+# Onshape Link / CAD Link
+https://cad.onshape.com/documents/9ecd611f15c96cf420998dfb/w/7ca80fb3e662c44e284e2449/e/19dea7572f776dac5406555f?renderMode=0&uiState=6ae949dae0a6267da97a54af
